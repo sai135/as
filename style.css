@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #name_of_the_objects
+{
+font-size: 18px;
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+hr{
+    margin-top: 20px;
+    font-weight: bolder;
+    width: 200px;
+}
